@@ -1,0 +1,14 @@
+About Password Generator :
+
+*A password generator code in Python is used to create strong, 
+   random passwords automatically.
+
+*This is useful for enhancing security by ensuring passwords 
+   are difficult to guess or crack
+
+* we can generate the password length as required
+
+*this program used to create at a time many passwords
+
+*it has more advantages like it will give us different strong 
+   passwords automactically 
